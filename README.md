@@ -1,0 +1,2 @@
+# encx
+Encryption cli application
